@@ -1,2 +1,3 @@
 GITの練習をしていきます。
 基本的なワークフローを学べます。
+git config --global http.proxy 192.168.5.36:3128
