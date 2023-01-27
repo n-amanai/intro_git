@@ -2,6 +2,11 @@ GITの練習をしていきます。
 基本的なワークフローを学べます。
 git config --global http.proxy 192.168.5.36:3128
 
+githubのセットアップ（既存リポジトリ作成）コマンド
+git remote add origin https://github.com/n-amanai/intro_git.git
+git branch -M main
+git push -u origin main
+
 ・git add
 ・git commit
 ・git rm
