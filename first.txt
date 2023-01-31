@@ -15,6 +15,6 @@ git push -u origin main
 ・git diff --staged
 ・git checkout -- ファイル名.拡張子
 ・git reset HEAD
-・
+・git merge
 ・
 ・
